@@ -1,0 +1,44 @@
+.wrapper-padding{
+padding: 1% 1% 1% 1% ;
+}
+
+.logo-text a{
+    letter-spacing: 3.5px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #339933 !important;
+}
+
+.form-control:focus {
+    border-color: #FF0000;
+    box-shadow: none;
+}
+
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.addpro{
+    margin-left: 500px;
+    margin-top: 60px;
+    width: 700px;
+    text-align: center;
+    border: 1px solid #b1bace;
+    border-radius: 10px;
+}
+
+.productTable{
+    margin-left: 200px;
+    padding: 20px 60px 30px 60px;
+}
+
+label{
+    float: left;
+    font-size: 16px;
+}
+
